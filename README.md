@@ -1,3 +1,6 @@
+Here we provide details for the numerical extractor.
+
+10krowsAttribute/missing_words.csv contains the training 10k data for proposed models, include BIO tagging for sequence tagging module.
 
 Files of various models are given under models folder
   bert_enc_ent_qty_pivot.py -->  quantity-pivoted sequence tagging model
@@ -9,6 +12,6 @@ dataset folder contans the results for different models for testdata
   tag_centric.csv contains the results for tag-awere joint method
   GPT_ruleAttribute_+entity contains results for GPT-4
 
-10krowsAttribute/missing_words.csv contains the training 10k data for proposed models, include BIO tagging for 
+10krowsAttribute/missing_words.csv contains the training 10k data for proposed models, include BIO tagging for sequence tagging module.
 
 
